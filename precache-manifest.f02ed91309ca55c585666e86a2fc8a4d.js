@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/e-residency/css/chunk-vendors.80a9e6ca.css"
   },
   {
-    "revision": "996d8248f580f8e26e6c45c67da9b5a6",
+    "revision": "c832ba6b9e7e6013dfd4f337f904d427",
     "url": "/e-residency/favicon.png"
   },
   {
@@ -120,7 +120,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/e-residency/js/chunk-vendors.b0e38737.js"
   },
   {
-    "revision": "124d7459fcfa771328389dd7e0a3fc3c",
+    "revision": "b876451144b7b1218b96b480e457df4c",
     "url": "/e-residency/manifest.json"
   }
 ]);
