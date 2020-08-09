@@ -84,6 +84,46 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/e-residency/img/profile_city.435c148e.jpg"
   },
   {
+    "revision": "2e09d4ba05c4d7c6112e483921fcbc1b",
+    "url": "/e-residency/img/splashscreens/ipad_splash.png"
+  },
+  {
+    "revision": "3cd86a7267802b9167fcc59fe383b8ad",
+    "url": "/e-residency/img/splashscreens/ipadpro1_splash.png"
+  },
+  {
+    "revision": "d958fc033c5ee64996886dbc5d1f15a2",
+    "url": "/e-residency/img/splashscreens/ipadpro2_splash.png"
+  },
+  {
+    "revision": "c2682967e48c128c6ff2496425dfd160",
+    "url": "/e-residency/img/splashscreens/ipadpro3_splash.png"
+  },
+  {
+    "revision": "a9f8fb65f1bbe2ce3a774f75695e042f",
+    "url": "/e-residency/img/splashscreens/iphone5_splash.png"
+  },
+  {
+    "revision": "2dec947f2e25b31c9f815f4d8ff370b5",
+    "url": "/e-residency/img/splashscreens/iphone6_splash.png"
+  },
+  {
+    "revision": "b7dfa83657346cc42f61623d664094b9",
+    "url": "/e-residency/img/splashscreens/iphoneplus_splash.png"
+  },
+  {
+    "revision": "1b81ddd5c0ea689a448f4ce1751d2f10",
+    "url": "/e-residency/img/splashscreens/iphonex_splash.png"
+  },
+  {
+    "revision": "79a9970a0404e13a04d39ffa2409e39e",
+    "url": "/e-residency/img/splashscreens/iphonexr_splash.png"
+  },
+  {
+    "revision": "90198f0eb16496e12036ac5a31ff9065",
+    "url": "/e-residency/img/splashscreens/iphonexsmax_splash.png"
+  },
+  {
     "revision": "bd90b5d1759ad4eef06381233ef83bcc",
     "url": "/e-residency/img/studio-1.bd90b5d1.jpg"
   },
@@ -108,7 +148,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/e-residency/img/vue-mk-header.e481c0e3.jpg"
   },
   {
-    "revision": "b4704df7ae9b117972aaf1da72be246c",
+    "revision": "b38684b15204dd590f4c7c5dd9ec49be",
     "url": "/e-residency/index.html"
   },
   {
