@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/e-residency/precache-manifest.51c4282b21dd38fd7f1cab4612accaa9.js"
+  "/e-residency/precache-manifest.51ec1f52de6bb2b331e0d44bad395558.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vue-material-kit"});
