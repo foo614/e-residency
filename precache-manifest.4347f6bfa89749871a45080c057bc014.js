@@ -120,7 +120,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/e-residency/js/chunk-vendors.b0e38737.js"
   },
   {
-    "revision": "4bd8e3c41f977c832205a630c0625227",
+    "revision": "762984b39a60dcf3908ff2243e63e73d",
     "url": "/e-residency/manifest.json"
   }
 ]);

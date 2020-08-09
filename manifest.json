@@ -1,1 +1,1 @@
-{"name":"Taman","short_name":"Taman","theme_color":"#fedfe1","icons":[{"src":"./img/icons/maskable_icon.png","type":"image/png"}],"start_url":"./index.html","display":"fullscreen","background_color":"#fedfe1"}
+{"name":"Taman","short_name":"Taman","theme_color":"#fedfe1","icons":[{"src":"./img/icons/maskable_icon.png","sizes":"196x196","type":"image/png","purpose":"any maskable"}],"start_url":"./index.html","display":"fullscreen","background_color":"#fedfe1"}
