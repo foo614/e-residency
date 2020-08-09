@@ -108,7 +108,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/e-residency/img/vue-mk-header.e481c0e3.jpg"
   },
   {
-    "revision": "a7c0ce2f9b2d6f565c26cd57414730b8",
+    "revision": "b4704df7ae9b117972aaf1da72be246c",
     "url": "/e-residency/index.html"
   },
   {
